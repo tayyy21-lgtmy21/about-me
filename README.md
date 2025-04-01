@@ -1,1 +1,59 @@
-# my-portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harley Brown | Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+        .container { width: 80%; margin: auto; padding: 20px; background: #fff; }
+        header { background: #333; color: white; padding: 20px; text-align: center; }
+        h1, h2 { color: #444; }
+        ul { list-style: none; padding: 0; }
+        li { padding: 5px 0; }
+        .contact { background: #333; color: white; padding: 20px; text-align: center; }
+        .contact a { color: #ffcc00; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Harley Brown</h1>
+        <p>Marketing Professional | Content Strategist | Influencer Marketing Expert</p>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Professional Summary</h2>
+            <p>Marketing expert with extensive experience in branded content, influencer marketing, and storytelling. Skilled in creating 360° marketing campaigns, managing brand voices, and using AI tools to enhance creative execution.</p>
+        </section>
+        <section>
+            <h2>Key Skills</h2>
+            <ul>
+                <li>360° Marketing Campaigns</li>
+                <li>Storytelling & Content Creation</li>
+                <li>Influencer Marketing</li>
+                <li>Creative Direction</li>
+                <li>Copywriting & Brand Voice Management</li>
+                <li>Design Tools: Photoshop, Figma, AI Tools</li>
+                <li>Time Management</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Experience</h2>
+            <h3>Marketing Manager | Branded Content Lead (2021 - Present)</h3>
+            <p>Led marketing strategies for luxury brands, developed influencer campaigns, and created compelling brand narratives.</p>
+            <h3>Content Strategist | Social Media & Influencer Marketing (2019 - 2021)</h3>
+            <p>Designed content strategies, engaged influencers, and enhanced brand recognition through digital storytelling.</p>
+            <h3>Creative Associate | Marketing & Content (2018 - 2019)</h3>
+            <p>Developed marketing content for luxury travel brands and collaborated with teams to increase audience engagement.</p>
+        </section>
+        <section>
+            <h2>Education</h2>
+            <p>Bachelor of Arts in Marketing & Communications - University of London (2017)</p>
+        </section>
+    </div>
+    <footer class="contact">
+        <p>Contact: <a href="mailto:david087.mark@gmail.com">david087.mark@gmail.com</a> | Phone: +44 20 8040 4182</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/david-mark-baa405359" target="_blank">Visit my LinkedIn</a></p>
+    </footer>
+</body>
+</html>
